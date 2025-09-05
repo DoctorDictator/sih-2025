@@ -188,7 +188,7 @@ export default function AdminNavbar() {
                 <div className="py-1">
                   <div className="block w-full text-left px-4 py-2 text-sm text:black">
                     Harsh Shishodia  
-                    <span className="text-xs text-gray-500 capitalize">
+                    <span className="ml-2 text-xs text-gray-500 capitalize">
                       {role}
                     </span>
                   </div>

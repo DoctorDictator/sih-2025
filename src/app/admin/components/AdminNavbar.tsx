@@ -134,7 +134,7 @@ export default function AdminNavbar() {
             {/* Desktop user area */}
             <div className="hidden lg:flex items-center space-x-4">
               <button className="text-black px-3 py-2 font-medium">
-                Harsh Shishodia
+                Harsh Shishodia  
               </button>
               <span className="text-gray-500 text-opacity-50 px-3 py-2 text-sm font-medium capitalize">
                 {role}
@@ -187,7 +187,7 @@ export default function AdminNavbar() {
               >
                 <div className="py-1">
                   <div className="block w-full text-left px-4 py-2 text-sm text:black">
-                    Admin
+                    Harsh Shishodia  
                     <span className="text-xs text-gray-500 capitalize">
                       {role}
                     </span>
